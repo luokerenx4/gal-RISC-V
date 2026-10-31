@@ -1,0 +1,18 @@
+# Godot generated imports and editor state
+.godot/
+# Exported builds and packages
+builds/
+exports/
+*.pck
+*.app/
+# Local signing credentials
+.openai/
+.export_credentials
+export_credentials.cfg
+*.p12
+*.pfx
+*.key
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
